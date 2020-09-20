@@ -2,9 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Firstly you need to install node.js.
 
-Then, install the dependencies and start the app:
+Then, clone(download) this repository and install the dependencies, you must run:
 
-npm install
+### `npm install`
 
 ## Available Scripts
 
